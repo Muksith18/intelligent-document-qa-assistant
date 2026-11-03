@@ -1,0 +1,10 @@
+﻿.env
+__pycache__/
+*.py[cod]
+evaluation_results/*.json
+chroma_db/
+.streamlit/secrets.toml
+T3_report*.txt
+chunks.json
+embeddings.npy
+*.pdf
